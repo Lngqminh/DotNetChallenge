@@ -1,4 +1,4 @@
-﻿using DotNetChallenge.Data;
+﻿using DotNetChallenge.Repositories;
 using DotNetChallenge.Domains.Entities;
 using DotNetChallenge.Service;
 using Microsoft.AspNetCore.Http;

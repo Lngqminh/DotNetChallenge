@@ -3,9 +3,9 @@ using DotNetChallenge.Service;
 using Microsoft.AspNetCore.Http.HttpResults;
 using System.Collections.Generic;
 
-namespace DotNetChallenge.Data
+namespace DotNetChallenge.Repositories
 {
-    public class UserReponsitory:IUserReponsitory
+    public class UserReponsitory : IUserReponsitory
     {
         private static List<Users> _user = new List<Users>
         {
@@ -27,28 +27,28 @@ namespace DotNetChallenge.Data
             {
                 _user.Remove(userID);
             }
-            await Task.CompletedTask; 
+            await Task.CompletedTask;
         }
 
         public async Task<List<Users>> GetAll()
         {
-            return await Task.FromResult( _user.ToList());
+            return await Task.FromResult(_user.ToList());
         }
 
         public async Task<Users> GetById(int id)
         {
             var user = _user.SingleOrDefault(x => x.Id == id);
-            return await Task.FromResult( user );
+            return await Task.FromResult(user);
         }
 
         public async Task Update(Users users)
         {
             var exited = _user.FirstOrDefault(u => u.Id == users.Id);
-            if( exited != null )
+            if (exited != null)
             {
                 exited.Name = users.Name;
                 exited.Email = users.Email;
-            }    
+            }
             await Task.CompletedTask;
         }
     }
