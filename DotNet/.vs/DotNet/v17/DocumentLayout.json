@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\data\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\data\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\service\\iuserreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\service\\iuserreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\domains\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\domains\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\domains\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\domains\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +67,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Program.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Program.cs",
+              "RelativeToolTip": "DotNetChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:56:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserReponsitory.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Service\\IUserReponsitory.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Service\\IUserReponsitory.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Service\\IUserReponsitory.cs",
+              "RelativeToolTip": "DotNetChallenge\\Service\\IUserReponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:19:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReponsitory.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Data\\UserReponsitory.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Data\\UserReponsitory.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Data\\UserReponsitory.cs",
+              "RelativeToolTip": "DotNetChallenge\\Data\\UserReponsitory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:11:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DotNetChallenge\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:54:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DotNetChallenge\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:54:01.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Domains\\Entities\\Products.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Products.cs",
+              "RelativeToolTip": "DotNetChallenge\\Domains\\Entities\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:51:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Domains\\Entities\\Users.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Users.cs",
+              "RelativeToolTip": "DotNetChallenge\\Domains\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:51:25.074Z",
+              "EditorCaption": ""
             }
           ]
         },

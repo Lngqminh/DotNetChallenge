@@ -1,4 +1,8 @@
+using DotNetChallenge.Data;
+using DotNetChallenge.Service;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<IUserReponsitory, UserReponsitory>();
 
 // Add services to the container.
 
@@ -15,6 +19,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
 
 app.UseHttpsRedirection();
 
