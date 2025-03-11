@@ -1,6 +1,6 @@
 ﻿using DotNetChallenge.Repositories;
 using DotNetChallenge.Domains.Entities;
-using DotNetChallenge.Service;
+using DotNetChallenge.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

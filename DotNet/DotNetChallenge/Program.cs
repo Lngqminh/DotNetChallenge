@@ -1,5 +1,5 @@
 using DotNetChallenge.Repositories;
-using DotNetChallenge.Service;
+using DotNetChallenge.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IUserServices, UserRepository>();

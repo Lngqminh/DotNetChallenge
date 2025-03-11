@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\domains\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +31,12 @@
       "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\domains\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|d:\\meu_solutions\\project\\challenge\\dotnetchallenge\\dotnet\\dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E776C2-3167-45F8-868C-E4C714503193}|DotNetChallenge\\DotNetChallenge.csproj|solutionrelative:dotnetchallenge\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,52 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "DotNetChallenge\\appsettings.Development.json",
-              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\appsettings.Development.json",
-              "RelativeToolTip": "DotNetChallenge\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T09:46:14.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\appsettings.json",
-              "RelativeDocumentMoniker": "DotNetChallenge\\appsettings.json",
-              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\appsettings.json",
-              "RelativeToolTip": "DotNetChallenge\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T09:46:09.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "IUserServices.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Services\\IUserServices.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Services\\IUserServices.cs",
               "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Services\\IUserServices.cs",
               "RelativeToolTip": "DotNetChallenge\\Services\\IUserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:42:09.761Z",
+              "WhenOpened": "2025-03-11T09:52:16.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Program.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Program.cs",
               "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Program.cs",
               "RelativeToolTip": "DotNetChallenge\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T09:40:04.856Z",
               "EditorCaption": ""
@@ -144,27 +110,14 @@
               "RelativeDocumentMoniker": "DotNetChallenge\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "DotNetChallenge\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T10:50:55.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DotNetChallenge\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DotNetChallenge\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:25:33.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Services\\IProductService.cs",
@@ -172,25 +125,24 @@
               "RelativeToolTip": "DotNetChallenge\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:23:56.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T10:23:56.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\UsersController.cs",
               "RelativeToolTip": "DotNetChallenge\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T07:54:01.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Products.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Products.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Domains\\Entities\\Products.cs",
@@ -198,12 +150,11 @@
               "RelativeToolTip": "DotNetChallenge\\Domains\\Entities\\Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:51:39.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T07:51:39.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Domains\\Entities\\Users.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Domains\\Entities\\Users.cs",
@@ -211,21 +162,32 @@
               "RelativeToolTip": "DotNetChallenge\\Domains\\Entities\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:51:25.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T07:51:25.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "DotNetChallenge\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Controllers\\ProductController.cs",
               "RelativeToolTip": "DotNetChallenge\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T07:54:24.644Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DotNetChallenge\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\MeU_Solutions\\Project\\Challenge\\DotNetChallenge\\DotNet\\DotNetChallenge\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DotNetChallenge\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:25:33.458Z"
             }
           ]
         },
