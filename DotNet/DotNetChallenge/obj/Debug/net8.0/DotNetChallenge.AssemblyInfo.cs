@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e806e61b2f3aeccbf5a1c2a8dbdc02b74718d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7b065b6e1eacdb5552c6cdca4d63c711ea517b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
