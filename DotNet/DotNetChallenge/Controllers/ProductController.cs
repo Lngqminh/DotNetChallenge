@@ -10,9 +10,9 @@ namespace DotNetChallenge.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private readonly IProductReponsitory _productReponsitory;
+        private readonly IProductService _productReponsitory;
 
-        public ProductController(IProductReponsitory productReponsitory) 
+        public ProductController(IProductService productReponsitory) 
         {
             _productReponsitory = productReponsitory;
         }

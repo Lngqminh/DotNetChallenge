@@ -1,6 +1,6 @@
 ﻿using DotNetChallenge.Domains.Entities;
 
-namespace DotNetChallenge.Service
+namespace DotNetChallenge.Services
 {
     public interface IProductService
     {

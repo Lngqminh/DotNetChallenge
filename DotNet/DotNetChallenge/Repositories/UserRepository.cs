@@ -1,11 +1,11 @@
 ﻿using DotNetChallenge.Domains.Entities;
-using DotNetChallenge.Service;
+using DotNetChallenge.Services;
 using Microsoft.AspNetCore.Http.HttpResults;
 using System.Collections.Generic;
 
 namespace DotNetChallenge.Repositories
 {
-    public class UserReponsitory : IUserReponsitory
+    public class UserRepository : IUserServices
     {
         private static List<Users> _user = new List<Users>
         {

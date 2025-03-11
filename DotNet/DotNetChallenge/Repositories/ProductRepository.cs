@@ -1,9 +1,9 @@
 ﻿using DotNetChallenge.Domains.Entities;
-using DotNetChallenge.Service;
+using DotNetChallenge.Services;
 
 namespace DotNetChallenge.Repositories
 {
-    public class ProductRepository : IProductReponsitory
+    public class ProductRepository : IProductService
     {
         private static List<Products> _products = new List<Products>
         {

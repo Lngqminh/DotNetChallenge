@@ -13,3 +13,5 @@ DotNet/.vs/DotNet/v17/.suo
 *.txt
 *.props
 *.Up2Date
+*.bin
+*.v2

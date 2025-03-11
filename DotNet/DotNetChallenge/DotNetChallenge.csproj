@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Application\" />
+    <Folder Include="AutoMappers\" />
+    <Folder Include="Common\" />
   </ItemGroup>
 
 </Project>

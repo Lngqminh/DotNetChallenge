@@ -10,9 +10,9 @@ namespace DotNetChallenge.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly IUserReponsitory _userReponsitory;
+        private readonly IUserServices _userReponsitory;
 
-        public UsersController(IUserReponsitory userReponsitory)
+        public UsersController(IUserServices userReponsitory)
         {
             _userReponsitory = userReponsitory;
         }
