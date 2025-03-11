@@ -20,3 +20,6 @@ DotNet/.vs/DotNet/v17/.suo
 *.cs
 DotNet/DotNetChallenge/obj/Debug/net8.0/DotNetChallenge.AssemblyInfo.cs
 DotNet/DotNetChallenge/obj/Debug/net8.0/DotNetChallenge.AssemblyInfoInputs.cache
+*.v2
+DotNet/.vs/DotNet/v17/DocumentLayout.json
+/DotNet/.vs/DotNet/v17
