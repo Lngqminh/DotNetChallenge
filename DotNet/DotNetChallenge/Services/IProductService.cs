@@ -2,7 +2,7 @@
 
 namespace DotNetChallenge.Service
 {
-    public interface IProductReponsitory
+    public interface IProductService
     {
         Task<List<Products>> GetAll();
         Task<Products> GetById(int id);

@@ -2,8 +2,8 @@ using DotNetChallenge.Repositories;
 using DotNetChallenge.Service;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddScoped<IUserReponsitory, UserReponsitory>();
-builder.Services.AddScoped<IProductReponsitory, ProductReponsitory>();
+builder.Services.AddScoped<IUserServices, UserRepository>();
+builder.Services.AddScoped<IProductService, ProductRepository>();
 
 // Add services to the container.
 

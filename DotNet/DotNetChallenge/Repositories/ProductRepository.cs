@@ -3,7 +3,7 @@ using DotNetChallenge.Service;
 
 namespace DotNetChallenge.Repositories
 {
-    public class ProductReponsitory : IProductReponsitory
+    public class ProductRepository : IProductReponsitory
     {
         private static List<Products> _products = new List<Products>
         {

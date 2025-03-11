@@ -2,7 +2,7 @@
 
 namespace DotNetChallenge.Service
 {
-    public interface IUserReponsitory
+    public interface IUserServices
     {
         Task<List<Users>> GetAll();
         Task<Users> GetById(int id);
